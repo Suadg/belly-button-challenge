@@ -76,9 +76,28 @@ let filtSamples = samples.filter(item => item.id == sample)
 
 
     // Render the Bar Chart
+   let trace2 = {
+  type: 'bar',
+  x: topTenVal,
+  y: yticks,
+  orientation: 'h',
+  text: topTenLabels
+    };
+
+    let data2 = [trace2]
+
+    let layout2 = {
+      title: 'Top 10 Bacteria Cultures Found',
+      showlegend: false,
+      height: 500,
+      width: 1000
+    }
+    
+    Plotly.newPlot("bar", data2, layout2)
 
   });
 }
+
 
 // Function to run on page load
 function init() {
