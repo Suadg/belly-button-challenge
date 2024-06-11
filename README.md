@@ -10,10 +10,11 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 Click [here](https://suadg.github.io/belly-button-challenge/) to go to Bellybutton profile. 
 
-<img src="\Users\suad\Downloads\newplot (1).png" width="900px">
+<img src="https://github.com/Suadg/belly-button-challenge/blob/8f7b85789fba0e0a0a662d09e508156890fd44a2/BellyButton%202024-06-10.png" width="900px">
 
 ## Requirements
-### Bar Chart 
+
+### 1. Bar Chart 
 - Chart initializes without error 
 
 - Chart updates when a new sample is selected 
@@ -24,7 +25,7 @@ Click [here](https://suadg.github.io/belly-button-challenge/) to go to Bellybutt
 
 - Chart uses otu_labels as the tooltip 
 
-### Bubble Charts
+### 2. Bubble Charts
 - Chart initializes without error 
 
 - Chart updates when a new sample is selected 
@@ -39,7 +40,7 @@ Click [here](https://suadg.github.io/belly-button-challenge/) to go to Bellybutt
 
 - Chart uses otu_labels for text values 
 
-### Metadata and Deployment
+### 3. Metadata and Deployment
 - Metadata initializes without error 
 
 - Metadata updates when a new sample is selected 
