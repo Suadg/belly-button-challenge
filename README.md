@@ -57,7 +57,8 @@ Click [here](https://suadg.github.io/belly-button-challenge/) to go to Bellybutt
 ## Instructions
 Complete the following steps:
 
-1. Use the D3 library to read in samples.json from the URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json.
+1. Use the D3 library to read in samples.json from the 
+[URL](https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json).
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
@@ -86,6 +87,7 @@ Complete the following steps:
 - Append an html tag with that text to the #sample-metadata panel.
 
 
-
+References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. [Retrieved from:](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)Links to an external site.
 
 
